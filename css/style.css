@@ -1,0 +1,167 @@
+/*Importing Font from google font*/
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&family=Lora:ital@1&family=Marck+Script&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=EB+Garamond:ital@1&family=Lora:ital@1&family=Marck+Script&family=Satisfy&display=swap');
+
+body {
+    width: 1200px;
+    margin: auto;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px 8px black;
+}
+
+header {
+    background-color: rgba(20, 100, 20, 0.445);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.logo img {
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    padding-left: 450px;
+}
+
+nav {
+    background-color: darkgreen;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header_nav a {
+    width: 600px;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 25px 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: wheat;
+}
+
+.header_nav a:hover {
+    color: rgb(175, 59, 17);
+    font-size: 28px;
+}
+
+body {
+    background-color: rgba(241, 222, 198, 0.566);
+    font-size: 20px;
+    padding: 50px;
+}
+
+.main_img {
+    margin-top: 20px;
+    padding-left: 25px;
+}
+
+.parent_layer {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.layer2 {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    background-color: rgba(198, 189, 173, 0.404);
+    padding-top: 150px;
+}
+
+.layer2 h2 {
+    color: white;
+}
+
+.btn {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 10px 40px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 24px;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Lora', serif;
+    font-size: 30px;
+}
+
+p {
+    font-weight: 5px;
+}
+
+h6 {
+    font-size: 24px;
+}
+
+li {
+    font-size: 19px;
+}
+
+aside {
+    margin-right: 50px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    color: black;
+    float: left;
+}
+
+footer {
+    text-align: right;
+    font-size: 18px;
+    background-color: darkgreen;
+    color: wheat;
+    margin-top: 50px;
+}
+
+#box1 {
+    width: 420px;
+    padding-right: 40px;
+    float: left;
+}
+
+#box2 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+#box5,
+#box8,
+#box11,
+#box12 {
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    float: left;
+    overflow: hidden;
+}
+
+#box6,
+#box13 {
+    height: 400px;
+    width: 700px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+#box7,
+#box10 {
+    height: 400px;
+    width: 700px;
+    float: left;
+    padding-right: 50px;
+    padding-top: 30px;
+}
