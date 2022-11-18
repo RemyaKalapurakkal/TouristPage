@@ -5,16 +5,16 @@
 <p>It consist of three pages i.e. Home Page, Indian Cussine and Japanese Cusine. Page can be navigated using the navigation bar at the top. </p>
 <br>
 <h2> Installation /<h2>
-  <br>
-  <p> Download the file and unzip the folder to desired location</p>
-  <p> You can navigate to the home_page.html and double click to open the Home Page. Else copy the file to Visual Studion Code to Go Live </p>
-  <br>
+<br>
+<p> Download the file and unzip the folder to desired location</p>
+<p> You can navigate to the home_page.html and double click to open the Home Page. Else copy the file to Visual Studion Code to Go Live </p>
+<br>
 <h2> How To Use</h2>
 <br>
 <p> 1. Open the Home Page </p>
-<p> 3. Home Page has Navigation bar at the top and click on either "Indian" and "Japanese" </p>
+<p> 2. Home Page has Navigation bar at the top and click on either "Indian" and "Japanese" </p>
   <img src= "https://user-images.githubusercontent.com/113463620/202587951-c9fb64e6-9355-4808-bbcf-fbbeea41b220.png"/>
-<p> 4. This will take into inner pages. There is short information about each Cusines and also the some of dishes. </p>
-<p> 5. There is "Receipe" button on the photo of every dishes which will lead to recepie page (if anyone want to cook) </p>
+<p> 3. This will take into inner pages. There is short information about each Cusines and also the some of dishes. </p>
+<p> 4. There is "Receipe" button on the photo of every dishes which will lead to recepie page (if anyone want to cook) </p>
 <br>
 
