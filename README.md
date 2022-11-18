@@ -10,4 +10,6 @@
 <p> 2. You can navigate to the home_page.html and open the Home Page or use the Visual Studion Code to Go Live </p>
 <p> 3. Home Page has Navigation bar at the top and click on either "Indian" and "Japanese" </p>
 <p> 4. This will take into inner pages. There is short information about each Cusines and also the some of dishes. </p>
-<p>
+<p> 5. There is "Receipe" button on the photo of every dishes which will lead to recepie page (if anyone want to cook) </p>
+<br>
+
