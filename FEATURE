@@ -1,0 +1,4 @@
+<h3> Feature changed in the application </h3>
+<p> This page will tell about the changes mede in the dev branch</p>
+<br><br>
+<p> Email has been changed in home_page.html, indian.html and japaneses.html</p>
