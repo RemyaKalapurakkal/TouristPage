@@ -4,11 +4,16 @@
 <p> The website tells about the importance of traditional food and some of traditional foods in Indian Cusine and Japanese Cusine.These foods have been eaten for millennia by people around the world. They are not processed or packaged and sent all over the planet, so in many cases traditional foods are also those found in your local community.</p>
 <p>It consist of three pages i.e. Home Page, Indian Cussine and Japanese Cusine. Page can be navigated using the navigation bar at the top. </p>
 <br>
-<h2> How To Use Code?</h2>
+<h2> Installation /<h2>
+  <br>
+  <p> Download the file and unzip the folder to desired location</p>
+  <p> You can navigate to the home_page.html and double click to open the Home Page. Else copy the file to Visual Studion Code to Go Live </p>
+  <br>
+<h2> How To Use</h2>
 <br>
-<p> 1. Copy the code into local drive </p>
-<p> 2. You can navigate to the home_page.html and open the Home Page or use the Visual Studion Code to Go Live </p>
+<p> 1. Open the Home Page </p>
 <p> 3. Home Page has Navigation bar at the top and click on either "Indian" and "Japanese" </p>
+  ![image](https://user-images.githubusercontent.com/113463620/202587951-c9fb64e6-9355-4808-bbcf-fbbeea41b220.png)
 <p> 4. This will take into inner pages. There is short information about each Cusines and also the some of dishes. </p>
 <p> 5. There is "Receipe" button on the photo of every dishes which will lead to recepie page (if anyone want to cook) </p>
 <br>
