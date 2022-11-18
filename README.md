@@ -13,7 +13,7 @@
 <br>
 <p> 1. Open the Home Page </p>
 <p> 3. Home Page has Navigation bar at the top and click on either "Indian" and "Japanese" </p>
-  ![image](https://user-images.githubusercontent.com/113463620/202587951-c9fb64e6-9355-4808-bbcf-fbbeea41b220.png)
+  <img src= "https://user-images.githubusercontent.com/113463620/202587951-c9fb64e6-9355-4808-bbcf-fbbeea41b220.png"/>
 <p> 4. This will take into inner pages. There is short information about each Cusines and also the some of dishes. </p>
 <p> 5. There is "Receipe" button on the photo of every dishes which will lead to recepie page (if anyone want to cook) </p>
 <br>
